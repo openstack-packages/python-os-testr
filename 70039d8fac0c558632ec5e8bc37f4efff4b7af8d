@@ -1,0 +1,4 @@
+Verified-1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Reviewed-on: https://review.gerrithub.io/248215
+Project: openstack-packages/python-os-testr
+Branch: refs/heads/rpm-master
